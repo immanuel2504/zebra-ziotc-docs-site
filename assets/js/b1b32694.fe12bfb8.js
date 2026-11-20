@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkzebra_ziotc_fixed_reader_docs=self.webpackChunkzebra_ziotc_fixed_reader_docs||[]).push([["2227"],{35206(e){e.exports=JSON.parse('{"name":"ziotc-scalar-api-reference","id":"default"}')}}]);

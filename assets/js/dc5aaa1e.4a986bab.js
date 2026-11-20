@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkzebra_ziotc_fixed_reader_docs=self.webpackChunkzebra_ziotc_fixed_reader_docs||[]).push([["2075"],{91342(e){e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"fxr"}')}}]);
